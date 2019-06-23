@@ -1,3 +1,4 @@
+# WAP tp find the occurance of a particular digit in a list of number.
 my_list = [1, 2, 3, 4, 5, 6, 7, 8, 10, 11]
 find_no = 1
 
