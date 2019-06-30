@@ -1,0 +1,14 @@
+{
+    "Name": [
+        "John",
+        "Mike"
+    ],
+    "Phone": [
+        9898989898,
+        8989898989
+    ],
+    "Email": [
+        "john@gmail.com",
+        "mike@gmail.com"
+    ]
+}
