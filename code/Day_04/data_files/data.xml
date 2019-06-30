@@ -1,0 +1,12 @@
+<collection>
+    <element>
+        <Name>John</Name>
+        <Phone>9898989898</Phone>
+        <Email>john@gmail.com</Email>
+    </element>
+    <element>
+        <Name>Mike</Name>
+        <Phone>9988998899</Phone>
+        <Email>mike@gmail.com</Email>
+    </element>
+</collection>
